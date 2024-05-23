@@ -14,6 +14,6 @@ This program is used to find open ports in a device by using the python-nmap lib
     "python3 nmapScanPort.py"
 
 ## Example: 
-![alt text](image.png)
+![alt text](/home/clayzzz/Documents/GitHubProject/ScanPortsUsingNmap/example/image.png)
 
 
