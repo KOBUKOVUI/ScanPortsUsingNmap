@@ -10,7 +10,7 @@ This program is used to find open ports in a device by using the python-nmap lib
     `pip install python-nmap` 
 3. Install print-color: 
     `pip install print-color` 
-4. Run programing using: 
+4. To run the programing using: 
     `python3 nmapScanPort.py`
 
 ## Example: 
